@@ -2,34 +2,18 @@
   "employees": [
     {
       "id": "72fb1761-bf4a-4ba7-8cd8-bb694522c2f3",
-      "department": "Accounting",
+      "department": "Development",
       "fullName": "Christopher Stracke",
       "avatar": "https://avatars.githubusercontent.com/u/92066415",
-      "salary": 43200,
+      "salary": 20000,
       "birthDate": "1977-06-05"
-    },
-    {
-      "id": "ff951e2a-a5c4-4db0-9c3a-d349da0f24fd",
-      "department": "Audit",
-      "fullName": "Arthur Lang",
-      "avatar": "https://avatars.githubusercontent.com/u/60414474",
-      "salary": 48900,
-      "birthDate": "1976-07-20"
-    },
-    {
-      "id": "bb68e627-a3d2-450a-b9f3-61308f4c9ead",
-      "department": "QA",
-      "fullName": "Marcia Anderson",
-      "avatar": "https://avatars.githubusercontent.com/u/17430361",
-      "salary": 9100,
-      "birthDate": "1969-02-20"
     },
     {
       "id": "2f10763f-d689-4013-8e80-7a9f52ef438f",
       "department": "Accounting",
       "fullName": "Bernice Konopelski",
       "avatar": "https://avatars.githubusercontent.com/u/95779466",
-      "salary": 21400,
+      "salary": 21000,
       "birthDate": "1984-03-16"
     },
     {
@@ -37,7 +21,7 @@
       "department": "Management",
       "fullName": "Beatrice Hane",
       "avatar": "https://cdn.jsdelivr.net/gh/faker-js/assets-person-portrait/female/512/91.jpg",
-      "salary": 39700,
+      "salary": 40000,
       "birthDate": "1958-02-15"
     },
     {
